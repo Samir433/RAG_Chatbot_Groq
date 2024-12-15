@@ -1,0 +1,7 @@
+{
+  "file_path": "D:\\Task\\records_sample.json"
+}
+{
+  "question": "What is the total invoice amount?"
+}
+D:\Task\records_sample.json
